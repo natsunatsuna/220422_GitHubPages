@@ -5,8 +5,11 @@ permalink: /
 ---
 
 # 柴犬
+![81412](https://user-images.githubusercontent.com/104193478/164651360-d35421c2-daf3-49c8-a6da-74df23061b83.jpg)
 
-![image](81412.jpg)
+![68155](https://user-images.githubusercontent.com/104193478/164652144-b69d12b0-a7bc-49b5-80ca-d3b05ee533b5.jpg)
+
+
 
 ここに内容を記述する！
 
